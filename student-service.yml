@@ -2,6 +2,6 @@ server:
   port: 8085
 
 my:
-  greeting: Hello World from config Server
+  greeting: Hello World from config Server asgdfvc x
   list:
     values: One, Two, Three, Four
