@@ -1,5 +1,5 @@
 
 my:
-  greeting: Hello World from config Server School service
+  greeting: Hello World  School service from config Server
   list:
     values: One, Two, Three, Four
