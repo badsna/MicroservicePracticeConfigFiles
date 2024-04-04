@@ -2,7 +2,8 @@ server:
   port: 8082
 
 
+
 my:
-  greeting: Updated Hello World
+  greeting: Hello World from config Server
   list:
-    values: One, Two,updated
+    values: One, Two, Three, Four
