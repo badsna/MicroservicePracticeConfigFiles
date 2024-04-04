@@ -1,5 +1,5 @@
 my:
-  greeting: Hello World from config Server
+  greeting: Hello World from config Server common service
   list:
     values: One, Two, Three, Four
 spring:

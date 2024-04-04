@@ -1,7 +1,4 @@
-server:
-  port: 8085
-
 my:
-  greeting: Hello World from config Server asgdfvc x
+  greeting: Hello World from config Server Student service
   list:
     values: One, Two, Three, Four
