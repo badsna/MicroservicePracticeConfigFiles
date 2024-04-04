@@ -2,3 +2,8 @@ my:
   greeting: Hello World from config Server
   list:
     values: One, Two, Three, Four
+spring:
+  datasource:
+  url: jdbc:mysql://localhost:3306/hawa
+  username: root
+  password: root
