@@ -5,4 +5,4 @@ server:
 my:
   greeting: Updated Hello World
   list:
-  values: One, Two,updated
+    values: One, Two,updated
