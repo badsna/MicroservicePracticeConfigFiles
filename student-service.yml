@@ -1,2 +1,8 @@
 server:
   port: 8089
+
+
+my:
+  greeting: Updated Hello World
+  list:
+  values: One, Two,updated
