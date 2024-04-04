@@ -1,7 +1,5 @@
 server:
-  port: 8082
-
-
+  port: 8085
 
 my:
   greeting: Hello World from config Server
