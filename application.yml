@@ -4,6 +4,6 @@ my:
     values: One, Two, Three, Four
 spring:
   datasource:
-  url: jdbc:mysql://localhost:3306/hawa
+  url: 'jdbc:mysql://localhost:3306/hawa'
   username: root
   password: root
